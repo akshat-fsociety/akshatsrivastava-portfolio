@@ -32,7 +32,8 @@
   border-radius: 8px;
 }
 .navbar p{
-  background-image: linear-gradient(to right,rgb(224, 3, 224),orange);
+/*   background-image: linear-gradient(to right,rgb(224, 3, 224),orange); */
+    color: white;
   border-radius: 8px;
 
 }
